@@ -54,6 +54,7 @@ footer {
 }
 
 footer p {
+	margin-top: 2px;
 	padding: 3px;
 	text-align: center;
 }
