@@ -1,2 +1,1 @@
-# machine-problem
-Web App Activities
+# Web App - Online Favorites System (Machine Problem)
